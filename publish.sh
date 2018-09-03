@@ -5,5 +5,6 @@ echo Publishing local copy "$P_DATE" to GitHub repository...
 npm version minor
 git add .
 git commit -am "$P_DATE"
-git push -u origin master
-echo Commit done!
+git status
+# git push -u origin master
+# echo Commit done!

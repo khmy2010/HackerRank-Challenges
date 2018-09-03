@@ -1,6 +1,6 @@
 {
     "name": "HackerRank",
-    "version": "1.21.0",
+    "version": "1.12.0",
     "description": "This is the repo for the exercises I did at HackerRank",
     "main": "index.js",
     "scripts": {
