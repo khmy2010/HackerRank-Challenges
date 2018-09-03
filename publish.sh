@@ -6,4 +6,5 @@ git add .
 git commit -am "$P_DATE"
 git status
 git push -u origin master
+clear
 echo Commit done!
