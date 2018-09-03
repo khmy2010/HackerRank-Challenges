@@ -5,5 +5,5 @@ echo Publishing local copy "$P_DATE" to GitHub repository...
 git add .
 git commit -am "$P_DATE"
 git status
-# git push -u origin master
-# echo Commit done!
+git push -u origin master
+echo Commit done!
