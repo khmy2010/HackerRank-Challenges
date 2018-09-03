@@ -2,7 +2,6 @@
 clear
 P_DATE=`date '+%Y-%m-%d %H:%M:%S'`
 echo Publishing local copy "$P_DATE" to GitHub repository...
-npm version minor
 git add .
 git commit -am "$P_DATE"
 git status
