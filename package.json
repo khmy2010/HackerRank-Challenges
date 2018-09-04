@@ -4,11 +4,14 @@
     "description": "This is the repo for the exercises I did at HackerRank",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
-        "version": "npm version minor",
         "publish": "chmod +x publish.sh && ./publish.sh"
     },
-    "keywords": [],
+    "keywords": [
+        "HackerRank",
+        "Malaysia",
+        "UNIMAS",
+        "Universiti Malaysia Sarawak"
+    ],
     "author": "KH",
-    "license": "MIT"
+    "license": "WTFPL"
 }
